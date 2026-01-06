@@ -13,7 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-i'm currently pursuing data science. I know about prompt engineering. <br>I have skills in python, data structure, NumPy, pandas, and currently working on my<br>algorithms and matplotib. I also know the basic of networking and linux<br>
+👨‍💻 Aspiring Data Scientist | 📊 Data → Insights → Impact<br>
+<br>
+🛠️ Tech Stack: Python • NumPy • Pandas • Data Structures • Matplotlib<br>
+🤖 AI Skills: Prompt Engineering<br>
+📚 Learning Algorithms & Advanced Visualization<br>
+🖥️ Basics of Linux & Networking<br>
+🌱 Constantly learning | 📈 Improving every day<br>
 
 
 ## 🌐 Socials:
