@@ -13,14 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-👨‍💻 Aspiring Data Scientist | 📊 Data → Insights → Impact<br>
+👨‍💻 Aspiring Data Engineer | 📊 Data Pipelines → Transformation → Scalability<br>
 <br>
-🛠️ Tech Stack: Python • NumPy • Pandas • Data Structures • Matplotlib<br>
-🤖 AI Skills: Prompt Engineering<br>
-📚 Learning Algorithms & Advanced Visualization<br>
-🖥️ Basics of Linux & Networking<br>
-🌱 Constantly learning | 📈 Improving every day<br>
-
+🛠️ Tech Stack: Python • SQL • Pandas • Data Structures • ETL<br>
+⚙️ Tools & Concepts: Data Warehousing • Data Modeling • Apache Spark (Learning)<br>
+📡 Systems: Basics of Linux • Networking • Distributed Systems<br>
+☁️ Exploring Cloud & Big Data Technologies<br>
+🌱 Constantly learning | 📈 Building scalable data solutions<br>
+<br>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:danushriya2425@gmail.com) 
