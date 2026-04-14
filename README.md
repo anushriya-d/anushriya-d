@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 👨‍💻 Aspiring Data Engineer | 📊 Data Pipelines → Transformation → Scalability<br>
 <br>
 🛠️ Tech Stack: Python • SQL • Pandas • Data Structures • ETL<br>
-⚙️ Tools & Concepts: Data Warehousing • Data Modeling • Apache Spark (Learning)<br>
+📊 Passionate about transforming **raw data → meaningful insights**<br>
+⚙️ Tools & Concepts: Data Warehousing • Data Modeling • Version Control (Git & GitHub) • Apache Spark (Learning)<br>
 📡 Systems: Basics of Linux • Networking • Distributed Systems<br>
 ☁️ Exploring Cloud & Big Data Technologies<br>
 🌱 Constantly learning | 📈 Building scalable data solutions<br>
